@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-hi3z=ux75!_1=z52o!6*(qcy1t2s-7ci9$av%o=_@g7ro9&y0z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True # 실제로 서비스 시작할 때는 False로 변경해 줄 것
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['15.165.141.97']
 
 # Application definition
 
